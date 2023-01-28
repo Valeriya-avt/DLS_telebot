@@ -3,7 +3,7 @@ import numpy as np
 import subprocess
 from telebot import types
 import threading
-import image_processing
+import pictures_processing
 
 from datetime import datetime 
 
@@ -95,7 +95,7 @@ def get_photo_messages(message):
         bot.send_message(user_id, "Почти готово...")
         log("Process")
 
-        image_processing.style_transfer(message, user.style_img, image)
+        pictures_processing.style_transfer(message, user.style_img, image)
 
 def on_shutdown(dp):
     log("Выключен")
