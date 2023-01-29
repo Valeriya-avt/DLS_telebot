@@ -1,5 +1,5 @@
 # DLS_telebot
----------------
+
 ## Стилизация изображений в телеграм-боте
 
 Привет! Знакомьтесь с ботом, который умеет переносить стиль с одного изображения на другое:)
@@ -40,18 +40,21 @@ docker rm bot
 ```
 
 ### Примеры работы бота
+Пример 1
 ![1](/docs/images/screenshot1.png)
 
 ![2](/docs/images/screenshot2.png)
 
 ![3](/docs/images/screenshot3.png)
 
+Пример 2
 ![4](/docs/images/screenshot4.png)
 
 ![5](/docs/images/screenshot5.png)
 
 ![6](/docs/images/screenshot6.png)
 
+Пример 3
 ![7](/docs/images/screenshot7.png)
 
 ![8](/docs/images/screenshot8.png)
