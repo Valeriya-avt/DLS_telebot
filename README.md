@@ -31,12 +31,12 @@ docker run bot
 
 ### Остановить контейнер
 ```
-docker stop bot
+docker stop dockername
 ```
 
 ### Удалить контейнер
 ```
-docker rm bot
+docker rm dockername
 ```
 
 ### Примеры работы бота
