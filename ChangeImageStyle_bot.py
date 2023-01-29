@@ -1,5 +1,4 @@
 import telebot
-import numpy as np
 import subprocess
 from telebot import types
 import threading
