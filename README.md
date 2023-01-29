@@ -5,7 +5,7 @@
 Привет! Знакомьтесь с ботом, который умеет переносить стиль с одного изображения на другое:)
 
 Что сделано:
-- Написан код модели, которая может переносить стиль с одной фотографии на другую. Использован медленный алгоритм, за основу был взят официальный туториал pytorch [],
+- Написан код модели, которая может переносить стиль с одной фотографии на другую. Использован медленный алгоритм, за основу был взят [официальный туториал pytorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html),
 - создан бот, которому можно отправить две фотографии и получить в ответ фото с перенесенным стилем,
 - упаковано в докер.
 
@@ -39,22 +39,22 @@ docker stop bot
 docker rm bot
 ```
 
-Примеры работы бота:
-![Alt text](/docs/images/screenshot1.png)
+### Примеры работы бота
+![1](/docs/images/screenshot1.png)
 
-![Alt text](/docs/images/screenshot2.png)
+![2](/docs/images/screenshot2.png)
 
-![Alt text](/docs/images/screenshot3.png)
+![3](/docs/images/screenshot3.png)
 
-![Alt text](/docs/images/screenshot4.png)
+![4](/docs/images/screenshot4.png)
 
-![Alt text](/docs/images/screenshot5.png)
+![5](/docs/images/screenshot5.png)
 
-![Alt text](/docs/images/screenshot6.png)
+![6](/docs/images/screenshot6.png)
 
-![Alt text](/docs/images/screenshot7.png)
+![7](/docs/images/screenshot7.png)
 
-![Alt text](/docs/images/screenshot8.png)
+![8](/docs/images/screenshot8.png)
 
-![Alt text](/docs/images/screenshot9.png)
+![9](/docs/images/screenshot9.png)
 
